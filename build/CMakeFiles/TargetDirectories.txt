@@ -1,0 +1,3 @@
+/home/gsh/ws/findBook/build/CMakeFiles/edit_cache.dir
+/home/gsh/ws/findBook/build/CMakeFiles/rebuild_cache.dir
+/home/gsh/ws/findBook/build/CMakeFiles/findBook.dir
